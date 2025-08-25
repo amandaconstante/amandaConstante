@@ -1,9 +1,9 @@
 ## Hi there 👋
-Eu sou Amanda, graduada em Análise e Desenvolvimento de Sistemas pela UDESC. 
-Tenho experiência prática com desenvolvimento de módulos em sistema de ERP customizado, utilizando tecnologias como Java 8+, JavaScript, AngularJS, Bootstrap, JasperReport, HTML/CSS.
-Atualmente, tenho me dedicado em desenvolver minhas habilidades em desenvolvimento de software, tenho me dedicaod em estudar Java nas versões mais 17+ SpringBoot. 
-Além disso, venho me dedicado também em conhecer tecnologias Cloud, como AWS, e seus conceitos relacionados, assim como, Docker e kubernetes. 
-Flutter e Figma são outras tecnologias que tenho me dedicado a experimentar, e já colocando em prática em projetos pessoais.
+Sou graduada em Análise e Desenvolvimento de Sistemas pela UDESC. 
+Tenho experiência prática com desenvolvimento de aplicações full stack, utilizando tecnologias como Java 8+, JavaScript, AngularJS, Bootstrap, JasperReport, HTML/CSS.
+Atualmente, tenho me dedicado em aprimorar minhas habilidades em Java nas versões mais recentes (17+) e Spring Boot. 
+Além disso, venho me dedicado em conhecer tecnologias Cloud, como AWS, e conceitos relacionados, assim como, Docker e kubernetes. 
+Flutter e Figma são outras tecnologias que tenho me dedicado em experimentar, e já colocando em prática em projetos pessoais.
 
 <!--
 **amandaconstante/amandaConstante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
