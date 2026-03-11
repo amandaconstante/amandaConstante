@@ -17,7 +17,7 @@
 
 ## Contatos
 <p align="left">
-  <a href="https://www.linkedin.com/in/amanda-constante/">
+  <a href="https://www.linkedin.com/in/amanda-h-c/">
     <img loading="lazy" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:heloiseconstante@gmail.com">
