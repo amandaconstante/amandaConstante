@@ -1,21 +1,26 @@
-## Hi there 👋
-Sou graduada em Análise e Desenvolvimento de Sistemas pela UDESC. 
-Tenho experiência prática com desenvolvimento de aplicações full stack, utilizando tecnologias como Java 8+, JavaScript, AngularJS, Bootstrap, JasperReport, HTML/CSS.
-Atualmente, tenho me dedicado em aprimorar minhas habilidades em Java nas versões mais recentes (17+) e Spring Boot. 
-Além disso, venho me dedicado em conhecer tecnologias Cloud, como AWS, e conceitos relacionados, assim como, Docker e kubernetes. 
-Flutter e Figma são outras tecnologias que tenho me dedicado em experimentar, e já colocando em prática em projetos pessoais.
+## Olá! Bem-vindo(a) ao meu perfil!
 
-<!--
-**amandaconstante/amandaConstante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - :sparkles: Meu nome é Amanda Constante.
+  - :technologist: Sou graduada em Análise e Desenvolvimento de Sistemas pela UDESC.
+  - 📝 Em constante aprendizado.
 
-Here are some ideas to get you started:
+  
+## Sobre meu github
+<div align="center">
+  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaconstante&cardType=github&theme=dracula&fontFamily=&preferLogin=false&card_width=200" alt="readme-typing-svg">
+  
+  <img width="50%" alt="amandaconstante's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/amandaconstante?cardType=github&theme=dracula&fontFamily=&preferLogin=false" />    
+  
+  <img width="50%" src="https://streak-stats.demolab.com?user=amandaconstante&theme=dracula" alt="GitHub Streak" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Contatos
+<p align="left">
+  <a href="https://www.linkedin.com/in/amanda-constante/">
+    <img loading="lazy" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:heloiseconstante@gmail.com">
+    <img loading="lazy" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
