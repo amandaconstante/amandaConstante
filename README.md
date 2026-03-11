@@ -3,7 +3,8 @@
   - :sparkles: Meu nome é Amanda Constante.
   - :technologist: Sou graduada em Análise e Desenvolvimento de Sistemas pela UDESC.
   - 📝 Em constante aprendizado.
-
+    
+---
   
 ## Sobre meu github
 <div align="center">
