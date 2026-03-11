@@ -1,8 +1,8 @@
 ## Olá! Bem-vindo(a) ao meu perfil!
 
   - :sparkles: Meu nome é Amanda Constante.
-  - :technologist: Sou graduada em Análise e Desenvolvimento de Sistemas pela UDESC.
-  - 📝 Em constante aprendizado.
+  - 🎓 Sou graduada em Análise e Desenvolvimento de Sistemas pela UDESC.
+  - :technologist: Em constante aprendizado.
     
 ---
   
