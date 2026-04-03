@@ -8,7 +8,7 @@
   
 ## Sobre meu github
 <div align="center">
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaconstante&cardType=github&theme=dracula&fontFamily=&preferLogin=false&card_width=200" alt="readme-typing-svg">
+  <img align="right" width="45%" src="https://github-readme-stats-lime-sigma-37.vercel.app/api/top-langs/?username=amandaconstante&layout=compact&hide_border=true&bg_color=0d1117&theme=dracula" alt="readme-typing-svg">
   
   <img width="50%" alt="amandaconstante's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/amandaconstante?cardType=github&theme=dracula&fontFamily=&preferLogin=false" />    
   
