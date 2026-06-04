@@ -4,7 +4,7 @@
   - 🎓 Graduada em Análise e Desenvolvimento de Sistemas pela UDESC.
   - 💻 Desenvolvedora Back-end com foco em Java e Spring Boot.
   - 🗄️ Experiência com bancos de dados relacionais: PostgreSQL e MySQL.
-  - 🌱 Expandindo conhecimentos em React, JavaScript e Node.js.
+  - 🌱 Expandindo conhecimentos em Oracle Cloud.
   - :technologist: Em constante evolução e aprendizado.
     
 ---
