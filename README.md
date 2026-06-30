@@ -2,6 +2,7 @@
 
   - :sparkles: Meu nome é Amanda Constante.
   - 🎓 Graduada em Análise e Desenvolvimento de Sistemas pela UDESC.
+  - ☁️ Certificada em OCI Foundation 2026.
   - 💻 Desenvolvedora Back-end com foco em Java e Spring Boot.
   - 🗄️ Experiência com bancos de dados relacionais: PostgreSQL e MySQL.
   - 🌱 Expandindo conhecimentos em Oracle Cloud.
